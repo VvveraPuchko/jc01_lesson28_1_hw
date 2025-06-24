@@ -1,0 +1,28 @@
+Course;Java Basics
+Teacher;Alice Smith;alice@mail.com;Java
+Administrator;Bob Admin;bob@edu.com;Administration
+Student;John Doe;john@mail.com;Group A;4.5
+Student;Jane White;jane@mail.com;Group B;3.8
+
+Course;Python
+Teacher;Kendal Faust;kendal@mail.com;Python
+Administrator;Billy Admin;billy@edu.com;Administration
+Student;Katherine Duke;katherine@mail.com;Group A;5.9
+Student;Joe Goldberg;joe@mail.com;Group B;7.1
+Course;English
+Student;Katherine;kathy@gmail.com;18;7.0
+Teacher;John Lenon;john@gmail.com;English
+Administrator;Bronx;br@test;Admin
+---
+Course;Russian
+Student;Test;test;14;7.0
+Teacher;John;j;Russian
+---
+Course;Informatic
+Student;Lisa;lisa@gmail.com;14;8.0
+Administrator;Linda;linda@gmail.com;Admin
+---
+Course;Sport
+Student;***;***@***;14;8.0
+Teacher;Anna;ann@gmail.com;Sport
+---
